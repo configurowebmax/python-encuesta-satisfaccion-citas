@@ -1,11 +1,11 @@
-# %%TITULO%% 🐍
+# Encuesta de Satisfacción de Citas 🐍
 
 [![Python](https://img.shields.io/badge/Python-100%25-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Deploy](https://github.com/configurowebmax/python-encuesta-satisfaccion-citas/actions/workflows/pages.yml/badge.svg)](https://github.com/configurowebmax/python-encuesta-satisfaccion-citas/actions)
 [![Live Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-success?logo=github&logoColor=white)](https://configurowebmax.github.io/python-encuesta-satisfaccion-citas/)
 [![License](https://img.shields.io/badge/Licencia-MIT-blue)](LICENSE)
 
-> %%DESCRIPCION%%
+> Promedio de 1-5 y % de clientes satisfechos (calificación ≥4).
 
 ## 🚀 Probar la aplicación
 
