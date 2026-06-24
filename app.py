@@ -147,12 +147,12 @@ def cargar_al_inicio():
     if not datos:
         return
     try:
-            if "n" in datos:
-                document.querySelector("#n").value = datos["n"]
-            if "suma" in datos:
-                document.querySelector("#suma").value = datos["suma"]
-            if "promotores" in datos:
-                document.querySelector("#promotores").value = datos["promotores"]
+        if "n" in datos:
+            document.querySelector("#n").value = datos["n"]
+        if "suma" in datos:
+            document.querySelector("#suma").value = datos["suma"]
+        if "promotores" in datos:
+            document.querySelector("#promotores").value = datos["promotores"]
         aviso = document.querySelector("#resultado")
         aviso.innerHTML = "📂 Datos cargados. Pulsa <em>Calcular</em>."
         aviso.classList.remove("hidden")
